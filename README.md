@@ -1,6 +1,6 @@
-# Muslim Mate - Your Islamic Companion
+# Masjid Mode - Your Islamic Companion
 
-Muslim Mate is an Islamic app built using Flutter, designed to assist you in various aspects of your daily Islamic practices and knowledge.
+ Masjid Mode is an Islamic app built using Flutter, designed to assist you in various aspects of your daily Islamic practices and knowledge.
 
 <img src="Assets/Images/Default_muslim_app_icon_3_1eb7b4c5-ef4c-4635-974a-1df389df71f4_0.png" alt="App Screenshot" width="200" />
 
